@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق جافا</string>
+    <string name="Chocolate">شكولا</string>
+    <string name="Just_java_app_order_for">"فقط تطبيق جافا لعمل طلب "</string>
+    <string name="Quantity">الكمية</string>
+    <string name="your_name">الاسم</string>
+    <string name="you_can_not_have_more_than_100_cups">لا يمكن ان تحصل عل اكثر من مئة كوب</string>
+    <string name="you_can_not_have_less_than_1_cups">لا يمكن ان تحصل علي اقل من كوب واحد</string>
+    <string name="total">"الاجمالي: "</string>
+    <string name="toppings">اضافات</string>
+    <string name="thank_you">شكرا !</string>
+    <string name="submitOrder">عمل طلب</string>
+    <string name="quantity">"الكمية: "</string>
+    <string name="add_whipped_cream">إضافة قشدة</string>
+    <string name="add_Chocolate">إضافة شكولا</string>
+    <string name="Whipped_cream">قشدة</string>
+    <string name="name_on_filed">"الاسم: "</string>
+</resources>

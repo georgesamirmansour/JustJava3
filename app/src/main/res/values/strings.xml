@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="toppings">toppings</string>
+    <string name="your_name">your Name</string>
+    <string name="Whipped_cream">Whipped cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="quantity">quantity</string>
+    <string name="submitOrder">submitOrder</string>
+    <string name="thank_you">Thank you! </string>
+    <string name="total">Total: </string>
+    <string name="Quantity">Quantity: </string>
+    <string name="add_Chocolate">add Chocolate</string>
+    <string name="add_whipped_cream">add Whipped cream</string>
+    <string name="name_on_filed">"Name: "</string>
+    <string name="Just_java_app_order_for">"Just java app order for:   "</string>
+    <string name="you_can_not_have_more_than_100_cups">you can not have more than 100 cups</string>
+    <string name="you_can_not_have_less_than_1_cups">you can not have less than 1 cups</string>
+</resources>
